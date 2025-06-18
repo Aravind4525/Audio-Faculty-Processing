@@ -1,0 +1,8 @@
+soundfile
+requests
+deepgram-sdk
+boto3
+psycopg2
+numpy
+Flask
+gunicorn
